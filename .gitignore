@@ -1,0 +1,11 @@
+# go
+/bin
+/vendor
+/tmp
+__debug_bin
+
+# misc.
+.DS_Store
+
+# direnv
+.envrc
